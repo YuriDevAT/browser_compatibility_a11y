@@ -6,7 +6,7 @@ The project is about changes, improvements, and best browser support for HTML ta
 
 As above mentioned, this project is not to show a perfect Jupiter Notebook (that would not be possible with the knowledge I have at the moment about Python, Pandas, as such) but especially to show what I have learned during class throughout the semester, what progress I made using Python, Jupiter Notebook and Python's different libraries by combining my new won knowledge and my topic of interest in one project.
 
-![I am a work in progress!](https://github.com/YuriDevAT/sos-animals/blob/master/assets/work_in_progress.gif)
+![I am a work in progress!](https://github.com/YuriDevAT/browser_compatibility_a11y/blob/master/assets/work_in_progress.gif)
 
 ## Research question
 - How many HTML tags and CSS properties are supported?
