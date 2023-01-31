@@ -29,14 +29,14 @@ As above mentioned, this project is not to show a perfect Jupiter Notebook (that
 
 Before cloning/forking this project, make sure you have the following tools installed:
 
-    Git
-    Python
-    Jupiter Notebook (Anaconda)
+- Git
+- Python
+- Jupiter Notebook (Anaconda)
 
 **Installation**
 
-    Fork the project
-    Clone the project
-    Follow the instructions in the console:
-    Navigate to the project directory cd browser_compatibility_a11y
-    Run the kernel
+- Fork the project
+- Clone the project
+- Follow the instructions in the console:
+- Navigate to the project directory cd browser_compatibility_a11y
+- Run the kernel
